@@ -1,13 +1,18 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
-  "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "name": "g2gbet_789",
+  "theme": "สล็อต สล็อต789 สล็อต789KM เว็บตรง เว็บตรงไม่ผ่านเอเยนต์",
+  "version": "0.13.0",
+  "description": "สล็อต สล็อต789 สล็อต789KM เว็บตรง เว็บตรงไม่ผ่านเอเยนต",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "789",
+    "789KM",
+    "สล็อต",
+    "เว็บตรง",
+    "SLOT",
+    "SLOT789KM",
+    "เว็ปตรง"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/g2gbet_789.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
